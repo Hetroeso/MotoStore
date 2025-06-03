@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h7XaS5DkTQiSUplBnemeFwGXdbbUbuANZ1UAFUivpkY=",
+  "Source": "MotoStore.Api",
+  "BasePath": "_content/MotoStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
